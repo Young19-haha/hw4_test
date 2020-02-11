@@ -1,0 +1,1 @@
+print('This is homework4 part1.')
